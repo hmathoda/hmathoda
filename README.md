@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hardeep! <br/><a href="(https://github.com/hmathoda/hmathoda)">Programmer</a>, <a href="https://www.linkedin.com/in/hardeep-mathoda/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Hardeep! <br/><a href="(https://github.com/hmathoda/hmathoda)">Programmer</a>, <a href="https://www.linkedin.com/in/hardeep-mathoda/">
 
 <h2>👨‍💻 Data Analyst/IT Projects:</h2>
 
